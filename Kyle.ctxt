@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Kyle
+comment1.params=
+comment1.target=void\ playWith()
+comment2.params=
+comment2.target=void\ walkAround()
+comment3.params=
+comment3.target=java.lang.String\ getToy()
+comment4.params=
+comment4.target=Kyle()
+comment5.params=name\ favFood\ favToy
+comment5.target=Kyle(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=6

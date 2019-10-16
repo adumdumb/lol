@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Northerner
+comment1.params=
+comment1.target=int\ getMaxPints()
+comment2.params=maxPints
+comment2.target=void\ setMaxPints(int)
+comment3.params=age\ name\ isMale\ maxPints
+comment3.target=Northerner(int,\ java.lang.String,\ java.lang.Boolean,\ int)
+numComments=4

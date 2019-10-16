@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LessonFourteen
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=randAnimal
+comment2.target=void\ acceptAnimal(Animal)
+numComments=3

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Animal
+comment1.params=newName
+comment1.target=void\ changeName(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=void\ eatStuff()
+comment4.params=
+comment4.target=void\ walkAround()
+comment5.params=
+comment5.target=Animal()
+comment6.params=name\ favFood
+comment6.target=Animal(java.lang.String,\ java.lang.String)
+numComments=7
